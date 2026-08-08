@@ -4,7 +4,7 @@ const lectii = {
     titlu: "România în Primul Război Mondial",
     continut: `
 <p>
-La izbucnirea <b>Primului Război Mondial</b>, în <b>1914</b>, România și-a declarat neutralitatea. România a intrat în Primul Război Mondial la <b>27 august 1916</b>, de partea <b>Antantei</b>. Guvernul român urmărea eliberarea teritoriilor aflate sub stăpânire austro-ungară, în special <b>Transilvania</b>. Intrarea României în război a avut un rol important în lupta pentru realizarea unității naționale.
+La izbucnirea <b>Primului Război Mondial</b>, în <b>1914</b>, România și-a declarat neutralitatea. România a intrat în Primul Război Mondial la <b>27 august 1916</b>, de partea <b>Antantei</b>. Guvernul român urmărea eliberarea teritoriilor aflate sub stăpânirea Imperiului Austro-Ungar, în special <b>Transilvania</b>. Intrarea României în război a avut un rol important în lupta pentru realizarea unității naționale.
 </p>
 
 <p>
@@ -868,7 +868,7 @@ URSS era condusă de <b>Iosif Stalin</b>, iar puterea era concentrată în mâin
 </p>
 
 <p>
-După război, URSS a devenit una dintre cele mai puternice țări din lume. A influențat statele din Europa de Est. A fost în rivalitate cu SUA în perioada numită <b>Războiul Rece</b>. URSS a impus regimuri comuniste în statele din Europa de Est, inclusiv în România, și a creat <b>Tratatul de la Varșovia</b> (1955) ca alianță militară opusă <b>NATO</b>.
+După război, URSS a devenit una dintre cele mai puternice țări din lume. A influențat statele din Europa de Est. A fost în rivalitate cu SUA în perioada numită <b>Războiul Rece</b>. URSS a impus regimuri comuniste în statele din Europa de Est, inclusiv în România, și a creat <b>Tratatul de la Varșovia (1955)</b> ca alianță militară opusă <b>NATO</b>.
 </p>
 
 <p>
@@ -1124,7 +1124,7 @@ La sfârșitul anilor 1980, s-a afirmat mișcarea de renaștere națională. S-a
 </p>
 
 <p>
-După <b>1991</b>, în Republica Moldova, cultura se dezvoltă în condiții de libertate. Se consolidează instituțiile culturale și se diversifică viața artistică. Se promovează valorile naționale în context european.
+După <b>1991</b>, în Republica Moldova, cultura se dezvoltă în condiții de libertate / democrație. Se consolidează instituțiile culturale și se diversifică viața artistică. Se promovează valorile naționale în context european.
 </p>
 
 <p>
