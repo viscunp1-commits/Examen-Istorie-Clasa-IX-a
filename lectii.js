@@ -1124,7 +1124,7 @@ La sfârșitul anilor 1980, s-a afirmat mișcarea de renaștere națională. S-a
 </p>
 
 <p>
-După <b>1991</b>, în Republica Moldova, cultura se dezvoltă în condiții de libertate / democrație. Se consolidează instituțiile culturale și se diversifică viața artistică. Se promovează valorile naționale în context european.
+După <b>1991</b>, în Republica Moldova, cultura se dezvoltă în condiții de libertate. Se consolidează instituțiile culturale și se diversifică viața artistică. Se promovează valorile naționale în context european.
 </p>
 
 <p>
